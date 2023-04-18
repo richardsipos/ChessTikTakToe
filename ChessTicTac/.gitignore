@@ -1,0 +1,19 @@
+# NetBeans project files
+/nbproject/
+
+# Compiled class files
+*.class
+
+# Jar files
+*.jar
+
+# Logs and reports
+*.log
+*.properties
+*.ser
+
+# Build directories
+/build/
+/dist/
+/nbbuild/
+
